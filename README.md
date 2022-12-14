@@ -1,11 +1,11 @@
-# NgKaddem Esprit Project
+This Repo contains an academic project that I have collaborated on with such good classmates and developers. I was working on authentication and authorization as well as the Equipe section. The rest of the project is credited to:
 
-![banner-removebg-preview](https://user-images.githubusercontent.com/62307781/201923921-1bc51afe-3eef-4fad-8126-650c6a47fbd9.png)
+Amin Hlel: https://github.com/aminhl
 
-## Development server
+Hamza Ben Mahmoud: https://github.com/NoswearHQ
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Bechir Marco: https://github.com/Bechir-Marco
 
-## Build
+Brahim AbdErrahim: https://github.com/brahimABD98
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Aymen Kairoune: https://github.com/KhairouneAymen
